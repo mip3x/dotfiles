@@ -1,0 +1,12 @@
+### COLORS ###
+set $inactive-window-color #8ec07c 
+set $indicator             #689d6a
+
+### PROGRAMS ###
+set $dmenu_path            ~/gitd/links/dmenu
+
+### BACKGROUNDS ###
+set $wallpapers            ~/backgrounds/wallpapers/0272.jpg
+
+### DIRECTORIES ###
+set $screenshots           ~/pictures
